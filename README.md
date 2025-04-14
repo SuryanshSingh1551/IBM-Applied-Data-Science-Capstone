@@ -37,7 +37,7 @@ The overall methodology includes:
   - K-nearest neighbors (KNN)
 
 ## Data collection using SpaceX API
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B1%5D%20Data%20Collection%20API.ipynb" target="_blank">1_Data Collection API.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%201%5D%20Data%20Collection%20API%20lab.ipynb" target="_blank">[Module 1] Data Collection API.ipynb</a>
 
 Libraries or modules used: requests, pandas, numpy, datetime
 
@@ -49,7 +49,7 @@ Libraries or modules used: requests, pandas, numpy, datetime
 - We end up with 90 rows or instances and 17 columns or features. 
 
 ## Data Collection with Web Scraping
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B2%5D%20Data%20Collection%20with%20Web%20Scraping.ipynb" target="_blank">2_Data Collection with Web Scraping.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%201%5D%20Data%20Collection%20with%20Web%20Scraping.ipynb" target="_blank">[Module 1] Data Collection with Web Scraping.ipynb</a>
 
 Libraries or modules used: sys, requests, BeautifulSoup from bs4, re, unicodedata, pandas
 
@@ -61,7 +61,7 @@ Libraries or modules used: sys, requests, BeautifulSoup from bs4, re, unicodedat
 - We end up with 121 rows or instances and 11 columns or features. 
 
 ## EDA with Pandas and Numpy
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B3%5D%20EDA.ipynb">3_EDA.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%201%5D%20EDA.ipynb">[Module 1] EDA.ipynb</a>
 
 Libraries or modules used: pandas, numpy
 
@@ -71,7 +71,7 @@ Functions from the Pandas and NumPy libraries such as value_counts() are used to
 - The number and occurrence of each mission outcome
 
 ## EDA with SQL
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B4%5D%20EDA%20with%20SQL.ipynb" target="_blank">4_EDA with SQL.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%202%5D%20EDA%20with%20SQL.ipynb" target="_blank">[Module 2] EDA with SQL.ipynb</a>
 
 Framework used: IBM DB2
 
@@ -85,7 +85,7 @@ The data is queried using SQL to answer several questions about the data such as
 The SQL statements or functions used include SELECT, DISTINCT, AS, FROM, WHERE, LIMIT, LIKE, SUM(), AVG(), MIN(), BETWEEN, COUNT(), and YEAR().
 
 ## Data Visualization using Matplotlib and Seaborn
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B5%5D%20EDA%20Visualization.ipynb" target="_blank">5_EDA Visualization.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%202%5D%20EDA%20Visualization.ipynb" target="_blank">[Module 2] EDA Visualization.ipynb</a>
 
 Libraries or modules used: pandas, numpy, matplotlib.pyplot, seaborn
 
@@ -104,7 +104,7 @@ Example: A scatterplot showing the relationship between flight number and launch
 <br>
 
 ## Data Visualization using Folium
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B6%5D%20Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb" target="_blank">6_Interactive Visual Analytics with Folium lab.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%203%5D%20Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb" target="_blank">[Module 3] Interactive Visual Analytics with Folium lab.ipynb</a>
 
 Libraries or modules used: folium, wget, pandas, math
 
@@ -123,7 +123,7 @@ Example: A folium map showing the succeeded launches and failed launches for a s
 <br>
 
 ## Data Visualization using Dash
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B7%5D%20spacex%20dash%20app.py" target="_blank">7_spacex_dash_app.py</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%203%5D%20spacex%20dash%20app.py" target="_blank">[Module 3] spacex dash app.py</a>
 
 Libraries or modules used: pandas, dash, dash_html_components, dash_core_components, Input and Output from dash.dependencies, plotly.express
 
@@ -148,7 +148,7 @@ The picture below shows a scatterplot when the payload mass range is set to be f
 <br>
 
 ## Machine Learning Prediction
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B8%5D%20Machine%20Learning%20Prediction.ipynb" target="_blank">8_Machine Learning Prediction.ipynb</a>
+<a href="https://github.com/SuryanshSingh1551/IBM-Applied-Data-Science-Capstone/blob/main/%5BModule%204%5D%20Machine%20Learning%20Prediction.ipynb" target="_blank">[Module 4] Machine Learning Prediction.ipynb</a>
 
 Libraries or modules used: pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 
@@ -187,4 +187,4 @@ In this project, we try to predict if the first stage of a given Falcon 9 launch
 
 Several machine learning algorithms are employed to learn the patterns of past Falcon 9 launch data to produce predictive models that can be used to predict the outcome of a Falcon 9 launch. The predictive model produced by decision tree algorithm performed the best among the 4 machine learning algorithms employed. 
 
-~ Project created in October 2023 ~
+~ Project created in April 2025 ~
